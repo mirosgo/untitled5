@@ -13,7 +13,7 @@ public class Team {
             teamAnimal[i] = zoo[ran];
         }
     }
-
+//uklm
     public void printInformationAboutTheTeam() {
         System.out.println("animals.Team: " + nameTeam);
         for(Animal a : teamAnimal) {
